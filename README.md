@@ -1,6 +1,6 @@
 [![MasterHead](https://user-images.githubusercontent.com/115386517/225841791-e6eb2fcf-6de1-45ec-a5e8-0c321f0af245.gif)](https://github.com/JeetDas5)
 <h1 align="center">Hi 👋, I'm Jeet Das</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A passionate Full stack developer</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeetdas5&label=Profile%20views&color=0e75b6&style=flat" alt="jeetdas5" /> </p>
