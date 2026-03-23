@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **jeet15083011@gmail.com**
 
-- 👨‍💻 My Portfolio [https://www.jeetdas.tech](jeetdas.tech)
+- 👨‍💻 My Portfolio [https://www.jeetdas.site](jeetdas.site)
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/19fewVr8l2sYcCx7Wi6pylSpeX8tWrUeT/view?usp=sharing](https://drive.google.com/file/d/19fewVr8l2sYcCx7Wi6pylSpeX8tWrUeT/view?usp=sharing)
 
