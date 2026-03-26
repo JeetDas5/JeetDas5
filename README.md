@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/i_am_jeet5" target="blank"><img src="https://img.shields.io/twitter/follow/i_am_jeet5?logo=twitter&style=for-the-badge" alt="i_am_jeet5" /></a> </p>
 
-- 🌱 I’m currently learning **Cloud Services**
+- 🌱 I’m currently learning **GoLang**
 
 - 💬 Ask me about **NextJs**
 
