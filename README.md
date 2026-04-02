@@ -40,6 +40,7 @@
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/JeetDas5?cardType=octocat&theme=tokyonight&fontFamily=Comic%20Relief&preferLogin=false&Ring=0731DD)](https://git.io/awesome-stats-card)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeetDas5&layout=compact)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeetDas5&layout=compact) -->
+![Top Languages](https://git-hub-stats-card-generator.vercel.app/api/svg?username=JeetDas5&type=languages)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jeetdas5&" alt="jeetdas5" /></p>
