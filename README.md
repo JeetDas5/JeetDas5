@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **NextJs**
 
-- 📫 How to reach me **jeet15083011@gmail.com**
+- 📫 How to reach me **jeet@jeetdas.site**
 
 - 👨‍💻 My Portfolio [jeetdas.site](https://jeetdas.site)
 
